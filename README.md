@@ -1,5 +1,5 @@
-## Olá, Sou Tais Alves!!!
-<link rel="icon" type="image/png" sizes="16x16" href="imagem/favicon-16x16.png">
+ ## Olá, Eu sou Tais Alves!!!
+< link  rel = "icon"  type = "imagem/png"  tamanhos = "16x16"  href = "imagem/favicon-16x16.png" >
  <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TaisalvesGIT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
